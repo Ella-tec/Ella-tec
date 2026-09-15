@@ -55,17 +55,17 @@ Solution Analyst Intern | Software Developer | Systems Engineering Student
 <h3 align="left">Specializations:</h3>
 <ul>
 <ul class="skills-list">
-    <li>💻 <strong>Software Engineering</strong>: Software Developer Intern contributing to the ISACA AI Chatbot Project and modern application development.</li>
+<li>💻 <strong>Software Engineering</strong>: Software Developer Intern contributing to the ISACA AI Chatbot Project and modern application development.</li>
 
-    <li>🤖 <strong>AI & Machine Learning</strong>: Conversational AI, prompt engineering, LLM-powered applications, and intelligent automation.</li>
+<li>🤖 <strong>AI & Machine Learning</strong>: Conversational AI, prompt engineering, LLM-powered applications, and intelligent automation.</li>
 
-    <li>☁️ <strong>Cloud Technologies</strong>: AWS, Azure, and GCP cloud services, deployment strategies, and cloud-native architectures.</li>
+<li>☁️ <strong>Cloud Technologies</strong>: AWS, Azure, and GCP cloud services, deployment strategies, and cloud-native architectures.</li>
 
-    <li>🔒 <strong>Cybersecurity</strong>: Secure coding practices, vulnerability management, and cloud security fundamentals.</li>
+<li>🔒 <strong>Cybersecurity</strong>: Secure coding practices, vulnerability management, and cloud security fundamentals.</li>
 
-    <li>📊 <strong>Data & Analytics</strong>: ETL pipelines, database management, data visualization, and AI-ready data solutions.</li>
+<li>📊 <strong>Data & Analytics</strong>: ETL pipelines, database management, data visualization, and AI-ready data solutions.</li>
 
-    <li>🚀 <strong>Backend Development</strong>: REST APIs, microservices, scalable systems, and performance-focused application design.</li>
+ <li>🚀 <strong>Backend Development</strong>: REST APIs, microservices, scalable systems, and performance-focused application design.</li>
 </ul>
 
 <br>
