@@ -1,28 +1,28 @@
-<h1 align="center">
-👋 Hey there, Elias Fiseha here!
-</h1>
+<h1 align="center">👋 Hey there, Elias  here!</h1>
+
 <h2 align="center">
-Software Developer | Full-Stack Developer | Systems Engineering Student
+Solution Analyst Intern | Software Developer | Systems Engineering Student
 </h2>
+
 <p align="center">
-10
-<img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif" width="500">
-11
+  <img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif" width="500">
 </p>
 
-🔭 I'm currently working on the ISACA AI Chatbot Project.
+- 🔭 I'm currently working on the **ISACA AI Chatbot Project**.
 
-💼 Currently serving as a Solution Analyst Intern at i.c.stars, helping analyze business requirements, support technology solutions, and collaborate with diverse teams.
+- 💼 Currently serving as a **Solution Analyst Intern at i.c.stars**, supporting technology solutions, business analysis, and digital innovation initiatives.
 
-🌱 I'm currently learning and strengthening my skills in Artificial Intelligence, Software Engineering, Cloud Computing, Business Analysis, and Full-Stack Development.
+- 🌱 I'm currently expanding my skills in **Artificial Intelligence, Software Engineering, Cloud Computing, Business Analysis, and Full-Stack Development**.
 
-👯 I'm looking to collaborate on AI, Software Development, Cloud, and Digital Innovation Projects.
+- 🎓 Systems Engineering Student with a passion for building impactful technology solutions.
 
-💬 Ask me about Python, Git, GitHub, AI Tools, Business Analysis, Agile Methods, and Software Development.
+- 👯 I'm looking to collaborate on **AI, Software Development, Cloud Computing, and Digital Transformation Projects**.
 
-📫 How to reach me: fx44294@gmail.com
+- 💬 Ask me about **Python, GitHub, AI Tools, Business Analysis, Agile Methodologies, Cloud Technologies, and Software Development**.
 
-⚡ Fun fact: I enjoy turning ideas into technology solutions and continuously learning new skills.
+- 📫 How to reach me: **fx44294@gmail.com**
+
+- ⚡ Fun fact: **I enjoy transforming ideas into practical technology solutions and continuously learning new skills.**
 
 <br>
 <h3 align="left">Connect with me:</h3>
