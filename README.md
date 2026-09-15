@@ -1,98 +1,59 @@
-# A Detailed Study of Engineering in the Design, Development, and Maintenance of Software
+<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, Emediong &ldquo;Bendito&rdquo; Francis here. 😁</h1>
+<h2 align="center">Software Engineer | Data Engineer | Cloud Security Engineer | Bioinformatician</h2>
+<center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
 
-<h2 align="center">i.c.stars Software Developers 💻</h2>
+- 🔭 I'm currently working on **Data Engineering and Precision Medicine projects**.
 
-<p align="center">
-  <img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif" width="450">
+- 🌱 I'm currently mastering **AI/ML in Precision Medicine and Advanced Cloud Architecture**.
+
+- 🎓 **Stanford Data Ocean Graduate**: Certified in Data Science & AI/ML for Precision Medicine.
+
+- 👯 I'm looking to collaborate on **Data Engineering, Bioinformatics, and Cloud Security projects**.
+
+- 💬 Ask me about **AWS/GCP/Azure, Data Engineering, Precision Medicine, Docker, Kubernetes, and Backend Development.**
+
+- 📫 How to reach me: **emediongfrancis@gmail.com**
+
+- ⚡ Fun fact: **I'm a left-handed INTJ who bridges healthcare and technology!**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/emediongfrancis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emediongfrancis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emediongfrancis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emediongfrancis" height="30" width="40" /></a>
+<a href="https://fb.com/emediongfrancis15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emediongfrancis15" height="30" width="40" /></a>
+<a href="https://instagram.com/benditofrancis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benditofrancis" height="30" width="40" /></a>
+<a href="https://medium.com/@emediongfrancis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emediongfrancis" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  https://github.com/Ella-tec
-    <img src="https://img.shields.io/badge/G2e?style=for-the-badge&logo=github&logoColor=white
-  </a>
-
-  <atps://twitter.com/eliasfiseha1
-    <img src="https://img.shields.io/badge/Twitter-00acee?styleadge&logo=twitter&logoColor=white
-  </a>
-
-  https://linkedin.com
-    <img src="https://img.shields.io/badge/Linkedstyle=for-the-badge&logo=linkedin&logoColor=white
-  </a>
-
-  https://facebook.com
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&ook&logoColor=white
-  </a>
-
-  <a href="mailto:tecaddis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA=for-the-badge&logo=gmail&logoColor=white
-  </a>
+<br>
+<h3 align="left">Core Technologies:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
----
+<br>
+<h3 align="left">Specializations:</h3>
+<ul>
+<li>🧬 <strong>Precision Medicine</strong>: Multi-omics data analysis, ML for disease detection</li>
+<li>☁️ <strong>Cloud Architecture</strong>: AWS/GCP/Azure infrastructure, serverless solutions</li>
+<li>🔒 <strong>Cloud Security</strong>: Vulnerability assessments, penetration testing</li>
+<li>🗄️ <strong>Data Engineering</strong>: ETL pipelines, real-time streaming, data lakes</li>
+<li>🛠️ <strong>Backend Development</strong>: APIs, microservices, scalable systems</li>
+</ul>
 
-## 👋 I'm Glad to See You Here!
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emediongfrancis&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact" alt="emediongfrancis" /></p>
 
-Elias is a Full-Stack Developer with experience in web development using Python, JavaScript, Flask, Django, Node.js, and related technologies. Skilled in Git, SQL databases, REST APIs, Linux, Docker, and Cloud technologies.
-
-Currently pursuing a degree in Systems Engineering while continuing to grow as a software developer and lifelong learner.
-
----
-
-## 💻 Professional Summary
-
-Developer with the ability to analyze and solve complex problems while designing and implementing scalable solutions according to business requirements.
-
-### 🌱 Current Activities
-
-- Learning React and ACCA
-- Reading technical books
-- Building software projects
-- Practicing cloud technologies
-- Playing football
-
-### 💬 Ask Me About
-
-- Linux
-- Docker
-- Cloud Computing
-- Python
-- Git & GitHub
-
-### 👯 Collaboration
-
-I'm looking to collaborate on exciting software projects.
-
-### 📫 Contact
-
-**Email:** tecaddis@gmail.com
-
-**GitHub:** https://github.com/Ella-tec
-
-**Twitter:** https://twitter.com/eliasfiseha1
-
----
-
-## ⚡ Fun Fact
-
-Dream. Code. Build. Repeat.
-
----
-
-## 🏆 Acknowledgments
-
-- ALX School (Providing Guidance)
-
-**Elias Fiseha**
-
-- Twitter: https://twitter.com/eliasfiseha1
-- GitHub: https://github.com/Ella-tec
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ella-rue&theme=tokyonight
-
-![Top Languages](https://github-readpp/api/top-langs/?username=Ella-tec&layout=compact&theme=tokyonight
-
-`
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emediongfrancis&show_icons=true&theme=radical&locale=en" alt="emediongfrancis" /></p>
