@@ -54,14 +54,21 @@ Solution Analyst Intern | Software Developer | Systems Engineering Student
 <br>
 <h3 align="left">Specializations:</h3>
 <ul>
-<li>🧬 <strong>Precision Medicine</strong>: Multi-omics data analysis, ML for disease detection</li>
-<li>☁️ <strong>Cloud Architecture</strong>: AWS/GCP/Azure infrastructure, serverless solutions</li>
-<li>🔒 <strong>Cloud Security</strong>: Vulnerability assessments, penetration testing</li>
-<li>🗄️ <strong>Data Engineering</strong>: ETL pipelines, real-time streaming, data lakes</li>
-<li>🛠️ <strong>Backend Development</strong>: APIs, microservices, scalable systems</li>
+<ul class="skills-list">
+    <li>💻 <strong>Software Engineering</strong>: Software Developer Intern contributing to the ISACA AI Chatbot Project and modern application development.</li>
+
+    <li>🤖 <strong>AI & Machine Learning</strong>: Conversational AI, prompt engineering, LLM-powered applications, and intelligent automation.</li>
+
+    <li>☁️ <strong>Cloud Technologies</strong>: AWS, Azure, and GCP cloud services, deployment strategies, and cloud-native architectures.</li>
+
+    <li>🔒 <strong>Cybersecurity</strong>: Secure coding practices, vulnerability management, and cloud security fundamentals.</li>
+
+    <li>📊 <strong>Data & Analytics</strong>: ETL pipelines, database management, data visualization, and AI-ready data solutions.</li>
+
+    <li>🚀 <strong>Backend Development</strong>: REST APIs, microservices, scalable systems, and performance-focused application design.</li>
 </ul>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emediongfrancis&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact" alt="emediongfrancis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emediongfrancis&show_icons=true&theme=radical&locale=en" alt="emediongfrancis" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EliyasEshtea&show_icons=true&theme=<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliyasEshtea&pact&theme=radical
+</p>
