@@ -32,7 +32,7 @@ Solution Analyst Intern | Software Developer | Systems Engineering Student
 
 ## :mega: Acknowledgments
 
-* alx School (providing guidance)
+* I.C.Stars (providing guidance)
 [Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
 
 </div>  
