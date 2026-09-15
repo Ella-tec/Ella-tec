@@ -1,6 +1,6 @@
 # A Detailed Study of Engineering in the Design, Development, and Maintenance of Software
 
-<h2 align="center">Esml Software Developers 💻</h2>
+<h2 align="center">i.c.stars Software Developers 💻</h2>
 
 <p align="center">
   <img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif" width="450">
