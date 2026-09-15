@@ -1,20 +1,28 @@
-<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, Emediong &ldquo;Bendito&rdquo; Francis here. 😁</h1>
-<h2 align="center">Software Engineer | Data Engineer | Cloud Security Engineer | Bioinformatician</h2>
-<center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
+<h1 align="center">
+👋 Hey there, Elias Fiseha here!
+</h1>
+<h2 align="center">
+Software Developer | Full-Stack Developer | Systems Engineering Student
+</h2>
+<p align="center">
+10
+<img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif" width="500">
+11
+</p>
 
-- 🔭 I'm currently working on **Data Engineering and Precision Medicine projects**.
+🔭 I'm currently working on the ISACA AI Chatbot Project.
 
-- 🌱 I'm currently mastering **AI/ML in Precision Medicine and Advanced Cloud Architecture**.
+💼 Currently serving as a Solution Analyst Intern at i.c.stars, helping analyze business requirements, support technology solutions, and collaborate with diverse teams.
 
-- 🎓 **Stanford Data Ocean Graduate**: Certified in Data Science & AI/ML for Precision Medicine.
+🌱 I'm currently learning and strengthening my skills in Artificial Intelligence, Software Engineering, Cloud Computing, Business Analysis, and Full-Stack Development.
 
-- 👯 I'm looking to collaborate on **Data Engineering, Bioinformatics, and Cloud Security projects**.
+👯 I'm looking to collaborate on AI, Software Development, Cloud, and Digital Innovation Projects.
 
-- 💬 Ask me about **AWS/GCP/Azure, Data Engineering, Precision Medicine, Docker, Kubernetes, and Backend Development.**
+💬 Ask me about Python, Git, GitHub, AI Tools, Business Analysis, Agile Methods, and Software Development.
 
-- 📫 How to reach me: **emediongfrancis@gmail.com**
+📫 How to reach me: fx44294@gmail.com
 
-- ⚡ Fun fact: **I'm a left-handed INTJ who bridges healthcare and technology!**
+⚡ Fun fact: I enjoy turning ideas into technology solutions and continuously learning new skills.
 
 <br>
 <h3 align="left">Connect with me:</h3>
