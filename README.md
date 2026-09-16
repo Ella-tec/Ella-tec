@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, Elias  here!</h1>
 
 <h2 align="center">
-Solution Analyst Intern | Software Developer | Systems Engineering Student
+Solution Analyst Intern | Software Developer | Data Analysis Student
 </h2>
 
 <p align="center">
@@ -36,3 +36,4 @@ Solution Analyst Intern | Software Developer | Systems Engineering Student
 [Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
 
 </div>  
+
