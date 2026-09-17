@@ -1,11 +1,19 @@
-<h1 align="center">👋 Hey there, Elias  here!</h1>
+# Hey, I'm Elias👋
 
-<h2 align="center">
-Solution Analyst Intern | Software Developer | Data Analysis Student
-</h2>
+**Solution Analyst Intern | Software Developer | Data Analysis Student**
 
-<p align="center">
-  <img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif" width="500">
+I bridge the gap between business strategy and cloud execution. I focus on building scalable infrastructure, securing critical systems, and automating operational workflows. 
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 - 🔭 I'm currently working on the **ISACA AI Chatbot Project**.
@@ -36,4 +44,3 @@ Solution Analyst Intern | Software Developer | Data Analysis Student
 [Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
 
 </div>  
-
