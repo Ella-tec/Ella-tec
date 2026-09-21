@@ -4,7 +4,7 @@
 
 I bridge the gap between business strategy and cloud execution. I focus on building scalable infrastructure, securing critical systems, and automating operational workflows. 
 
-<h2 align="center">Esml Software Developers 💻
+<h2 align="center">
   <img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif" width="500">
 </h2>
 </p
