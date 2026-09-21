@@ -19,7 +19,7 @@ I bridge the gap between business strategy and cloud execution. I focus on build
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-theo=splunk&logoColor=white
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&cript&logoColor=F7DF1E
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>tps://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
