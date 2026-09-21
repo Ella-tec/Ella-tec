@@ -1,7 +1,7 @@
 # a detailed study of engineering to the design, development and maintenance of software
 
 
-<h2 align="center">Esml Software Developers 💻</h2>
+<h2 align="center"> ella Software Developers 💻</h2>
 <center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
 
 
