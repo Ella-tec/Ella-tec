@@ -1,81 +1,85 @@
-# a detailed study of engineering to the design, development and maintenance of software
+<div align="center">
 
+  <!-- Banner / Visual -->
+  <img src="./banner.png" alt="Elias Fiseha - Full Stack Developer" width="100%"/>
 
-<h2 align="center"> ella Software Developers 💻</h2>
-<center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
+  <h1>Hi, I'm Elias Fiseha 👋</h1>
+  <h3>Full-Stack Developer | ALX Graduate | Lifelong Learner</h3>
 
+  <p>
+    <a href="https://twitter.com/eliasfiseha1"><img src="https://img.shields.io/badge/Twitter-@eliasfiseha1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="mailto:tecaddis@gmail.com"><img src="https://img.shields.io/badge/Email-tecaddis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/malu17"><img src="https://img.shields.io/badge/Old_Account-malu17-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </p>
 
-<a href="https://github.com/malu17" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@eliasfiseha1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ella-fiseha-927673232" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://facebook.com/in/Elias Fiseha" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=lfacebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://gmail.com.com/tecaddis@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23292929.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
-</a>  
+</div>
 
-  
-### I'm glad to see you here!  
-## elias is a Fullstack Developer with experience in projects related to web development (Python, JavaScript, Flask, Django, Node), low-level programming (C, Bash). Proficient in version control systems (Git), databases (SQL) and RESTful APIs. Lifelong learner, curious, team player and passionate about technology. elias is in the process of pursuing a degree in Systems Engineering with a strong emphasis on programming.
+---
 
-<h2 align="center">
-Developer with the ability to analyze and solve problems of high complexity and ambiguity. With skills to design and implement solutions according to the company context. 💻</h2>
+### 🚀 About Me
 
-- 🌱 I’m currently learning React and acca.
-- 😀 I like drawing with charcoal and pencil :, reading :books:, programming, :computer:,  and playing football, 
-- 💬 Ask me about **Linux, Docker, and the Cloud.**
-- 👯 I’m looking to collaborate on **thrilling projects.**
-- 📫 How to reach me: **tecaddis@gmail.com**
-⚡ Fun fact: dream programming!
-- 🎯 [Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1)
-<br/>  
+I'm a Full-Stack Developer from **Addis Ababa, Ethiopia**, currently deepening my skills in modern web technologies and systems engineering.
 
+- 💻 Experience with **Python, JavaScript, Flask, Django, Node.js**
+- ⚙️ Comfortable with low-level programming (**C, Bash**)
+- 🗄️ Databases (SQL) & RESTful APIs
+- 🐳 Linux, Docker & Cloud fundamentals
+- 🌱 Currently learning **React** and continuous improvement
+- 🎨 I also enjoy drawing with charcoal & pencil, reading, and football
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br>
+> Passionate about building useful software, solving complex problems, and collaborating on exciting projects.
 
-🛠️ Tech Stack 
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+### ⚠️ Important Note – Old GitHub Account
+
+I lost access to my previous GitHub account due to 2FA recovery issues.
+
+**➡️ Please check my previous work here:**  
+**[https://github.com/malu17](https://github.com/malu17)**
+
+All my older repositories (ALX projects, low-level programming, etc.) are still available under that account.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
-## :mega: Acknowledgments
+---
 
-* alx School (providing guidance)
-[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
+### 📊 GitHub Stats
 
-</div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malu17&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malu17&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
 
-<br/>  
+---
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+### 📫 Connect with me
 
-[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | 
-[GitHub](https://github.com/malu17)
+- Email: **tecaddis@gmail.com**
+- Twitter: **[@eliasfiseha1](https://twitter.com/eliasfiseha1)**
+- Old GitHub (repos still available): **[github.com/malu17](https://github.com/malu17)**
 
+---
 
-</td><td valign="top" width="50%">
-
-[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | 
-[GitHub](https://github.com/malu17)
-
-</td></tr></table>  
-
-
-<br/>  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=malu17&style=flat-square&color=blue" alt="Profile views"/>
+  <br/><br/>
+  <i>Thanks for stopping by! Let's build something great together 🚀</i>
+</div>​‌
