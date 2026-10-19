@@ -65,13 +65,24 @@ An application project focused on an AI-assisted chat experience and supporting 
   <img src="https://streak-stats.demolab.com?user=Ella-tec&hide_border=true" alt="GitHub contribution streak for Ella-tec" />
 </p>
 
+My Previous GitHub Account
+I previously used @malu17 for my GitHub projects. I lost access to that account because of two-factor authentication recovery issues.
+
+My previous repositories are still available here:
+
+➡️ Visit my previous GitHub profile — github.com/malu17
+
+You can explore my earlier work there, including my ALX projects and low-level programming repositories. This profile is where I share my current activity.
 ## 📫 Connect With Me
 
-- **GitHub:** [@Ella-tec](https://github.com/Ella-tec)
+- Current GitHub profile[@Ella-tec](https://github.com/Ella-tec)
 - **Email:** [tecaddis@gmail.com](mailto:tecaddis@gmail.com)
-
+-
+- Previous GitHub profile and older projects: malu17
+- Email: tecaddis@gmail.com
+- Twitter: @eliasfiseha1
 ---
 
 <p align="center">
   <em>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</em>
-</p>
+</p> 
